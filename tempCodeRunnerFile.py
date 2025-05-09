@@ -1,1 +1,1 @@
-val1<val2
+return "Invalid option"
