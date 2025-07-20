@@ -1,1 +1,1 @@
-return "Invalid option"
+num2
