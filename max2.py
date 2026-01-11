@@ -1,0 +1,6 @@
+a=int(input("Enter 1st no: "))
+b=int(input("Enter 2nd no: "))
+c=int(input("Enter 3rd no: "))
+d=int(input("Enter 4th no: "))
+e=int(input("Enter 5th no: "))
+print(max(a,b,c,d,e))
