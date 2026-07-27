@@ -1,0 +1,7 @@
+num1=int(input("enter your 1st number:"))
+num2=int(input("enter your 2nd number:"))
+num3=int(input("enter your 3rd number:"))
+num4=int(input("enter your 4th number:"))
+num5=int(input("enter your 5th number:"))
+maxNumber=max(num1,num2,num3,num4,num5)
+print(f"Large number is {maxNumber} of {num1}, {num2}, {num3}, {num4}, {num5}")
