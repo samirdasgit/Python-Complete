@@ -1,0 +1,8 @@
+num1=int(input("Enter 1st no: "))
+num2=int(input("Enter 2nd no: "))
+num3=int(input("Enter 3rd no: "))
+num4=int(input("Enter 4th no: "))
+num5=int(input("Enter 5th no: "))
+maxNumber=max(num1,num2,num3,num4,num5)
+#print("Max number is ",maxNumber," of ",num1,", ",num2,", ",num3,", ",num4,", ",num5)
+print(f"Max number is {maxNumber} of {num1}, {num2}, {num3}, {num4}, {num5}")
